@@ -272,22 +272,33 @@ Seasonal-Agriculture-Performance-Analysis/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About Me
 
-**Hariom Kumar Dubey**
+**Hariom Dubey**
 
-Data Analytics Major Project — VOIS / AICTE Internship
+Aspiring **Data Analyst** passionate about transforming data into meaningful business insights.
 
-Interested in Data Analysis, Python, Statistical Analysis, Data Visualization, Business Intelligence, and Machine Learning.
+### Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- SQL
+- Python
+- Power BI
+- Machine Learning
 
 ---
 
 ## 📬 Contact
 
-- **GitHub:** [Hariomdubey01](https://github.com/Hariomdubey01)
-- **Project Repository:** [Seasonal Agriculture Performance Analysis](https://github.com/Hariomdubey01/Seasonal-Agriculture-Performance-Analysis)
-
+| Platform | Link |
+|----------|------|
+| 📧 Email | <mailto:hariomkumard8@gmail.com> |
+| 💼 LinkedIn | [linkedin.com/in/itzhariomdubey](https://www.linkedin.com/in/itzhariomdubey) |
+| 💻 GitHub | [github.com/Hariomdubey01](https://github.com/Hariomdubey01) |
 ---
+
 
 ## 🙏 Acknowledgements
 
